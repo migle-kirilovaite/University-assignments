@@ -1,0 +1,80 @@
+QUERY 1
+18
+Melissa Smith
+Julie Wood
+Melissa Note
+...
+
+QUERY 2
+884
+Helen Enderman
+Luke Sheen
+Alex Hudson
+...
+
+QUERY 3
+790 
+Melissa Smith
+Helen Enderman
+Luke Sheen
+...
+
+QUERY 4
+501
+Helen Enderman
+Alex Hudson
+Arnold Doe
+...
+
+QUERY 5
+257
+Melissa Smith
+Arnold Doe
+Angelina Leben
+...
+
+QUERY 6
+564
+Luke Sheen
+Alex Hudson
+Arnold Doe
+...
+
+QUERY 7
+189
+Alex Hudson
+Jane Wood
+Eve Druddle
+...
+
+QUERY 8
+85
+Wilhelm Wozniak
+Jane Lockwood
+Karl Druddle
+...
+
+QUERY 9
+243
+Helen Enderman
+Angelina Leben
+Richard Brightman
+...
+
+QUERY 10
+250
+Melissa Smith
+Luke Sheen
+Arnold Doe
+...
+
+QUERY 11
+541
+Helen Enderman
+Luke Sheen
+Alex Hat
+...
+
+
+
+
